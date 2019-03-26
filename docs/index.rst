@@ -107,14 +107,6 @@ Scatter Map of Gene Interaction System
 
        功能级别[Level]:高  
 
-   \`\`\`flow st=>start: Start op1=>operation: 上传 cond1=>condition:
-   上传成功? op2=>operation: 生成 cond2=>condition: 是否清晰?
-   op3=>operation: 清空 op4=>operation: 筛选 e=>end
-
-st->op1->cond1 cond1(yes)->op2 cond1(no)->op3
-
-op2->cond2 cond2(yes)->e cond2(no)->op4->e
-
 ::
 
 3.2 实用性
