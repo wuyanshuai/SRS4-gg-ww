@@ -155,7 +155,9 @@ Scatter Map of Gene Interaction System
 
 4. 用例
 ------------
+
 (1)
+
 .. raw:: html
 
    <table>
