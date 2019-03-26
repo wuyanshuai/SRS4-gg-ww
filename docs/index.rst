@@ -153,9 +153,9 @@ Scatter Map of Gene Interaction System
 根据这样的软件功能，可以放到WPS或者office平台，借助这样的大平台，发展的前景将会更加光明。
 \`\`\` 
 
-4. 用例 (1)
+4. 用例
 ------------
-
+(1)
 .. raw:: html
 
    <table>
