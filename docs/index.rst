@@ -25,15 +25,7 @@ Scatter Map of Gene Interaction System
 2.2 系统结构 - 组成结构
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-.. code:: graphLR
-
-        A[C3 Code] -->|build| C(Round edge)
-        B[D3 Code] -->|build| C(Round edge)
-        C[Source Code] -->|deployed| D[Website]
-        D[Website] -->|Encapsulation| E(Software)
-
 -  UI设计
-    |UI界面|
 -  软件系统
 -  可用功能
 
