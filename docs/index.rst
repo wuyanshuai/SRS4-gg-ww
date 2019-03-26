@@ -1,15 +1,18 @@
 Scatter Map of Gene Interaction System
 ======================================
+
+Software Requirements Specification  
+
+Version 1.0  
+
+Editor:
+
 +------------+------------+-----------+
-|     周佳威  | Header 2   | Header 3  |
+|    class   | studentID  |    name   |
 +============+============+===========+
-| body row 1 | column 2   | column 3  |
+|   SESun    |201736900128| Ying Ge   |
 +------------+------------+-----------+
-| body row 2 | Cells may span columns.|
-+------------+------------+-----------+
-| body row 3 | Cells may  | - Cells   |
-+------------+ span rows. | - contain |
-| body row 4 |            | - blocks. |
+|   SESun    |201736900130|Zhou Jiawei|
 +------------+------------+-----------+
 
 
@@ -170,138 +173,13 @@ Scatter Map of Gene Interaction System
 
 (1)
 
-.. raw:: html
-
-   <table>
-       <tr>
-           <td width="120">
-
-用户需求描述
-
-.. raw:: html
-
-   </td>
-           <td>
-
-上传需要分析的数据文件
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td width="120">
-
-用例名
-
-.. raw:: html
-
-   </td>
-           <td>
-
-文件上传
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td width="120">
-
-用例描述
-
-.. raw:: html
-
-   </td>
-           <td>
-
-用户对数据文件进行加载、上传、取消上传、删除文件等操作
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td width="120">
-
-主要actor
-
-.. raw:: html
-
-   </td>
-           <td>
-
-软件用户
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td width="120">
-
-前置条件
-
-.. raw:: html
-
-   </td>
-           <td>
-
-软件运行正常
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td width="120">
-
-成功后置条件
-
-.. raw:: html
-
-   </td>
-           <td>
-
-用户得到文件上传成功的提示
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td width="120">
-
-失败后置条件
-
-.. raw:: html
-
-   </td>
-           <td>
-
-系统提示文件上传失败，用户无法获知分析结果
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td width="120">
-
-关联用例
-
-.. raw:: html
-
-   </td>
-           <td>
-
-散点图生成
-
-.. raw:: html
-
-   </td>
-       </tr>
-   </table>  
++------------+------------+-----------+
+|    用户需求描述   | studentID  |    name   |
++============+============+===========+
+|   用例名         |201736900128| Ying Ge   |
++------------+------------+-----------+
+|   SESun    |201736900130|Zhou Jiawei|
++------------+------------+-----------+
 
 (2)
 
