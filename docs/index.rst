@@ -68,6 +68,8 @@ Editor:
 3.1 功能性
 ~~~~~~~~~~
 
+.. image:: docs/progress.png
+
 -  软件使用需求分析
 
    ::
